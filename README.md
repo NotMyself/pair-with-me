@@ -39,7 +39,7 @@ This definition is a little bit squishy on purpose to not exclude anyone that ma
 ## Requirements
 
 - Have [zoom](https://zoom.us/) installed.
-- Have a microphone capable of recording my voice.
+- Have a microphone capable of recording your voice.
 - Have a camera of some type capable of recording yourself from the shoulders up.
 - Have Visual Studio Code installed on your development machine.
 - Have the [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension installed and configured in Visual Studio Code.
