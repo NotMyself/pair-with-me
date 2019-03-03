@@ -16,7 +16,7 @@ And of course there are some secondary benefits, we get to:
 - Learn a little bit about you.
 - Learn a little bit about me.
 
-To be clear this is a two way street. I have been a programmer for a long time, but I am far from knowing everything. In fact, the more I spend learning and programming the more I realize how much I don't know. I am terrible with CSS. Functional programming with languages like F# or Scala kinda freak me out. Help me learn something and I will help you learn something. No lesson is to small.
+To be clear this is a two way street. I have been a programmer for a long time, but I am far from knowing everything. In fact, the more I spend learning and programming the more I realize how much I don't know. I am terrible with CSS. I have no idea how to even start a Java project. Functional programming with languages like F# or Scala kinda freak me out. Help me learn something and I will help you learn something. No lesson is to small.
 
 If this interests you, please file an [request](https://github.com/NotMyself/pair-with-me/issues/new?assignees=NotMyself&labels=New&template=request.md&title=Name+-+Topic+-+Language).
 
