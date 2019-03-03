@@ -34,4 +34,4 @@ This definition is a little bit squishy on purpose to not exclude anyone that ma
 - **Step 4:** We collaborate to find a time to stream, once agreed your request will be labeled Scheduled.
 - **Step 5** We do the stream! I record it and post it to YouTube. Finally your request is marked Completed.
 
-**Note: ** If for any reason communication breaks down, or we can't find a time your request will be marked Abandoned.
+**Note:** If for any reason communication breaks down, or we can't find a time your request will be marked Abandoned.
