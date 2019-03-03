@@ -20,11 +20,11 @@ To be clear this is a two way street. I have been a programmer for a long time, 
 
 If this interests you, please file an [request](https://github.com/NotMyself/pair-with-me/issues/new?assignees=NotMyself&labels=New&template=request.md&title=Name+-+Topic+-+Language).
 
-## What is a Junior Developer
+## What is a Junior Developer?
 
 This definition is a little bit squishy on purpose to not exclude anyone that may not meet the letter of the definition while meeting the spirit of the project. A junior developer in my estimation is someone who has been programming for around three (3) years either professionally or recreationally. They have a handle on the basics of their first programming language and maybe know the basics of a couple others (yes T-SQL and HTML count).
 
-## What is the process?
+## What is the Process?
 
 - **Step 1:** File a [request](https://github.com/NotMyself/pair-with-me/issues/new?assignees=NotMyself&labels=New&template=request.md&title=Name+-+Topic+-+Language).
 - **Step 2:** Your request will be evaluated and labeled either Accepted or Rejected.
