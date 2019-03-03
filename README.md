@@ -35,3 +35,12 @@ This definition is a little bit squishy on purpose to not exclude anyone that ma
 - **Step 5** We do the stream! I record it and post it to YouTube. Finally your request is marked Completed.
 
 **Note:** If for any reason communication breaks down, or we can't find a time your request will be marked Abandoned.
+
+## Requirements
+
+- Have [zoom](https://zoom.us/) installed.
+- Have a microphone capable of recording my voice.
+- Have a camera of some type capable of recording yourself from the shoulders up.
+- Have Visual Studio Code installed on your development machine.
+- Have the [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension installed and configured in Visual Studio Code.
+- Successfully meet with me for a preflight check.
